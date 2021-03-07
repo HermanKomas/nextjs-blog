@@ -8,9 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
     "gray-matter": "^4.0.2",
     "next": "^10.0.0",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-iframe": "^1.8.0",
+    "react-material-ui-form-validator": "^2.1.4",
+    "twilio-video": "^2.12.0"
   }
 }
